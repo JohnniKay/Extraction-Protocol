@@ -1,0 +1,23 @@
+# Unreal Engine folders to ignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+*.log
+*.tmp
+*.user
+*.userprefs
+*.uo
+*.pdb
+
+# Engine-specific extras
+*.xcodeproj
+*.xcworkspace
+.idea/
+.vs/
